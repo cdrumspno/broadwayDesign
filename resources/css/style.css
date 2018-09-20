@@ -4,11 +4,13 @@ body{
 }
 #nav{
   background-image: url("../images/the-flatiron-building.png");
+  background-repeat: no-repeat;
 }
 #nav h1{
   font-size: 70px;
   font-weight: bold;
   color: white;
+  margin: 0;
 }
 #nav p, #nav p a{
   font-size: 18px;
